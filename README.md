@@ -1,5 +1,5 @@
 # CV-Mission
-**What Is the 7-Day CV Mission?**
+- **What Is the 7-Day CV Mission?**
 
 The 7-Day CV Mission is a limited, free initiative by ITEducation Nepal where our mentor Jiwan Bhattarai personally reviews 150 student resumes over 7 focused days.
 
@@ -7,7 +7,7 @@ This is not a chatbot. This is not a template generator. This is not automation.
 
 This is Jiwan Sir – sitting with your resume – thinking about your future.
 
-**Who is This CV Mission For?**
+- **Who is This CV Mission For?**
 
 This mission is open to everyone – regardless of educational background, college, GPA, gender, or location in Nepal. Whether you are:
 
