@@ -44,10 +44,6 @@ How to Prepare for Any IT Interview Using AI || Rejected to Hired 6-Hour Masterc
 
 **YouTube Link:**  
 https://www.youtube.com/watch?v=ryFFLYfMc-Q
-
-**Focus:**  
-Complete interview preparation system, HR interview strategy, technical interview preparation, AI powered mock interviews, answer frameworks, and Interview Evidence Bank.
-
 ---
 
 ### Part 2, Technical Questions and Mock Practice
@@ -58,9 +54,6 @@ How to Prepare for Any IT Interview Using AI || Technical Questions & Mock Pract
 **YouTube Link:**  
 https://www.youtube.com/watch?v=ryFFLYfMc-Q (Need to update later)
 
-**Focus:**  
-Technical interview questions, troubleshooting scenarios, role based preparation, CV based answers, project explanation, and AI mock interview practice.
-
 ---
 
 ### Part 3, Student Feedback and Career Roadmap
@@ -70,9 +63,6 @@ How to Prepare for Any IT Interview Using AI || Student Feedback & Career Roadma
 
 **YouTube Link:**  
 (Need to update later)
-
-**Focus:**  
-Student feedback, career guidance, confidence building, next step discussion, and 30 day interview preparation roadmap.
 
 ---
 
@@ -168,7 +158,6 @@ Follow this practical sequence:
 7. Practice mock interviews using AI
 8. Watch Part 3
 9. Review the career guidance and feedback lessons
-10. Build your 30 day interview preparation roadmap
 
 ---
 
@@ -198,10 +187,7 @@ Use this simple routine for consistent preparation.
 
 You can use:
 
-- ChatGPT
-- Claude
-- Gemini
-- Perplexity or any AI tools
+- ChatGPT, Claude, Gemini, Perplexity or any AI tools
 
 Use AI as a coach, not as a shortcut.
 
@@ -246,21 +232,6 @@ https://github.com/ITEN-Non-Profit/AI-Career-Transformation-Hub
 
 **Mentor LinkedIn:**  
 https://www.linkedin.com/in/jiwanbhattarai
-
----
-
-## 🤝 Contribution
-
-This is a community learning initiative. Students, mentors, volunteers, and professionals are welcome to contribute by improving:
-
-- AI prompts
-- Interview questions
-- Mock interview examples
-- Role based preparation notes
-- Answer templates
-- Troubleshooting scenarios
-- Nepali translations
-- Grammar and formatting
 
 ---
 
